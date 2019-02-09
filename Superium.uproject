@@ -5,7 +5,7 @@
 	"Description": "",
 	"Modules": [
 		{
-			"Name": "SuperiumMod",
+			"Name": "Superium",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}

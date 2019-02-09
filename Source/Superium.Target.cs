@@ -3,12 +3,12 @@
 using UnrealBuildTool;
 using System.Collections.Generic;
 
-public class SuperiumModTarget : TargetRules
+public class SuperiumTarget : TargetRules
 {
-	public SuperiumModTarget(TargetInfo Target) : base(Target)
+	public SuperiumTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Game;
 
-		ExtraModuleNames.AddRange( new string[] { "SuperiumMod" } );
+		ExtraModuleNames.AddRange( new string[] { "Superium" } );
 	}
 }

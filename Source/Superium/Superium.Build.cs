@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class SuperiumMod : ModuleRules
+public class Superium : ModuleRules
 {
-	public SuperiumMod(ReadOnlyTargetRules Target) : base(Target)
+	public Superium(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	

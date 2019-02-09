@@ -1,6 +1,6 @@
 // Fill out your copyright notice in the Description page of Project Settings.
 
-#include "SuperiumMod.h"
+#include "Superium.h"
 #include "Modules/ModuleManager.h"
 
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, SuperiumMod, "SuperiumMod" );
+IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, Superium, "Superium" );
